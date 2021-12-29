@@ -18,7 +18,9 @@
 
 Скриншот ошибки - [ссылка на скриншот ошибки](https://user-images.githubusercontent.com/93017500/143784015-ac62649b-3a86-46b3-b75c-b413e6823304.png)
 
-## В качестве тестовых данных использовались данные [ссылка на тестовые данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer) :
+## В качестве тестовых данных использовались данные
+
+[ссылка на тестовые данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md#задача-1---money-transfer) :
 
 текущий баланс счёта клиента - 2_000_000_000 (два миллиарда рублей)
 
